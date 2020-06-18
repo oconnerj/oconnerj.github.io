@@ -4,6 +4,7 @@ title:  "Small Update on Topre"
 date:   2017-06-05 05:44:15 +0000
 categories: blog
 tags: keyboard review topre followup
+excerpt: "A quick revisit to the land of cup rubber with the Realforce 87u."
 ---
 
 ![Realforce 87u](/images/realforce87u.jpg)

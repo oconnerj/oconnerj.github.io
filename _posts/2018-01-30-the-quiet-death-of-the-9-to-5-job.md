@@ -4,6 +4,7 @@ title:  "The Quiet Death of the 9-to-5 Job"
 date:   2018-01-30 07:49:44 +0000
 categories: blog
 tags: quality development crunch
+excerpt: "Reading this article will synergize your success metrics with your outcomes."
 ---
 
 I was on LinkedIn the other day when one of the suggested articles caught my attention. It was titled "The 9-to-5 job has disappeared." While it turned out to actually just be a summary of a single point of a Wall Street Journal article of much more substance, it got me thinking. I scrolled down into the comments and found a wonderful gem from a man with one of the most corporate BS-sounding job titles I'd ever heard:

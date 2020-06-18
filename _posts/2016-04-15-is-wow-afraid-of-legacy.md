@@ -4,6 +4,7 @@ title:  "Is the World of Warcraft Team Afraid of Legacy Servers?"
 date:   2016-04-14 23:37:19 +0000
 categories: blog
 tags: gaming warcraft
+excerpt: "It's clear that there is a non-trivial segment of the WoW player base that craves a Legacy server. I am among that crowd."
 ---
 
 <div style="float: right; padding: 10px 10px 10px 30px; min-width: 100px; max-width: 300px;">

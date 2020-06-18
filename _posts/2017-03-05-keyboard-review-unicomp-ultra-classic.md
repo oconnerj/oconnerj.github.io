@@ -4,6 +4,7 @@ title:  "Keyboard Review: Unicomp Ultra Classic"
 date:   2017-03-06 05:18:58 +0000
 categories: blog
 tags: keyboard review unicomp modelm
+excerpt: "<img src='/images/unicomp_ultra_classic.jpg' />"
 ---
 
 <div style="float: right; padding: 10px 10px 10px 30px; min-width: 100px; max-width: 300px;">

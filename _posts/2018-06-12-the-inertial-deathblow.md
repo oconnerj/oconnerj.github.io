@@ -4,6 +4,7 @@ title:  "The Inertial Deathblow"
 date:   2018-06-12 23:20:15 +0000
 categories: blog
 tags: quality development operations
+excerpt: "The story of how putting inertia-bound individuals into leadership spells doom for your team, and potentially your business as a whole."
 ---
 
 In my career up to this point, I've had the pleasure (and sometimes displeasure) of working with a huge swath of individuals from all walks of life. I've worked with fresh-faced kids straight out of college with a ton of passion; grizzled veterans; smoke-blowers with few actual skills; flighty wizards who could fix anything in a day, if you could just get them to focus—the list goes on. However, nothing makes me more sad than the folks so bogged down in their own inertia that they've lost their ability to be creative. Here's how brainstorming sessions go with these people:

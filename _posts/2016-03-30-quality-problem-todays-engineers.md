@@ -4,6 +4,7 @@ title:  "On the quality problem of today's software engineers"
 date:   2016-03-31 01:47:15 +0000
 categories: blog
 tags: quality hiring development
+excerpt: "<img src='/images/sad_programmer.png' />"
 ---
 
 <div style="float: right; padding: 10px 10px 10px 30px; min-width: 100px; max-width: 300px;">

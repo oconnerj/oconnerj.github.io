@@ -4,6 +4,7 @@ title:  "Keyboard Review: Topre Realforce RGB"
 date:   2017-05-23 03:40:59 +0000
 categories: blog
 tags: keyboard review topre
+excerpt: "A review of one man's first foray into the cup rubber phenomenon."
 ---
 
 ![Realforce RGB](/images/realforcergb.jpg)
