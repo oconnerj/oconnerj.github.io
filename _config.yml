@@ -23,26 +23,18 @@ email: justin@justinoconner.me
 author: Justin O'Conner
 logo: /images/main_logo.png
 description: >- # this means to ignore newlines until "baseurl:"
-  © 2020 Justin O'Conner
+  Software Architect, Coffee Drinker, Kind of a Dork
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: oconnerj88
-github_username:  oconnerj
+github_url: https://github.com/oconnerj
 
 # Build settings
-theme: minima
+remote_theme: fongandrew/hydeout
+paginate: 5
+sidebar_home_link: true
+
 plugins:
   - jekyll-feed
-
-minima:
-  skin: solarized-dark
-
-header_pages:
-  - about.md
-  - portfolio-biz.md
-  - portfolio-games.md
-  - music.md
-  - misc.md
 
 defaults:
   - scope:

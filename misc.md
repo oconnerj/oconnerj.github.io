@@ -2,6 +2,8 @@
 layout: page
 title: Misc.
 permalink: /misc/
+sidebar_link: true
+sidebar_sort_order: 5
 ---
 
 Here you'll find various miscellaneous items and projects that don't really fit in anywhere else.
@@ -25,12 +27,6 @@ I have posted these classes (and my other rules) [here on Google Docs](https://d
 As a challenge to myself to see if I could use Pathfinder's Mythic rules appropriately, I designed a mythic-class monster for my party to face. I chose Azathoth, a shapeless mass of pure chaos that the players had encountered a few times due to planar mishaps during high-level play. For the most part, I designed Azathoth by the book and tried to balance the encounter for a party of six 20th-level Pathfinder characters. (If you didn't know, 20th-level Pathfinder characters are insanely powerful, especially in a medium- or high-magic campaign setting.)
 
 The stats for Azathoth are available [here on Google Docs](https://docs.google.com/document/d/1g6QEtZ6TqBqtENPTMRIAJtdoou6-bMFDNvnk4edE9sY/edit?usp=sharing).
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 #### Statistics for Demogorgon
 

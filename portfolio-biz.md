@@ -2,6 +2,8 @@
 layout: page
 title: Portfolio (Biz)
 permalink: /portfolio-biz/
+sidebar_link: true
+sidebar_sort_order: 2
 ---
 
 ### My Day Job

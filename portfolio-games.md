@@ -2,6 +2,8 @@
 layout: page
 title: Portfolio (Games)
 permalink: /portfolio-games/
+sidebar_link: true
+sidebar_sort_order: 3
 ---
 
 Most of my work from the past several years has been professional stuff, but I've recently started working on games again in my spare time. Until I finish some new stuff, check out my older stuff below.
