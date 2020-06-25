@@ -1,0 +1,27 @@
+---
+# Jekyll needs front matter for SCSS files
+---
+
+$red: #d30102;
+$orange: #cb4b16;
+$yellow: #b58900;
+$green: #859900;
+$cyan: #2aa198;
+$blue: #268bd2;
+$brown: #8f5536;
+
+//$sidebar-bg-color: #252526;
+
+$sidebar-bg-color: #3e3f3e;
+$body-bg: #262727;
+$gray-6: #e7e2d9;
+$gray-5: #dbd6cc;
+$gray-4: #a8a9a8;
+$gray-3: #e1ddd3;
+$gray-2: #f9f5ed;
+$gray-1: #ffffff;
+$strong-color: #e8e3da;
+$blockquote-color: #cbc6bb;
+$code-background-color: #282929;
+
+@import "hydeout";
