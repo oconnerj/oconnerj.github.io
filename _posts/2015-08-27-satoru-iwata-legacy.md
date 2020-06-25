@@ -4,6 +4,7 @@ title:  "Satoru Iwata's legacy and the death of fun in games"
 date:   2015-08-28 01:27:53 +0000
 categories: blog
 tags: gaming
+excerpt: "<img src='/images/satoru_iwata.jpg' />"
 ---
 
 <div style="float: right; padding: 10px 10px 10px 30px; min-width: 100px; max-width: 300px;">
