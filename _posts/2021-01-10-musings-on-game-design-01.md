@@ -4,7 +4,7 @@ title:  "Musings on Game Design 1: Difficulty vs. Challenge"
 date:   2021-01-10 18:45:50 +0000
 categories: blog
 tags: gaming gamedesign musing doom
-excerpt: "Musings on Game Design: what is the difference between difficult and challenging?"
+excerpt: "Is \"difficult\" the same as \"challenging\" in games?"
 ---
 
 <div style="float: left; padding: 10px 10px 10px 30px; min-width: 100px; max-width: 400px;">
