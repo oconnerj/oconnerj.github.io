@@ -58,7 +58,7 @@ So far, this article has painted a fairly negative picture of games that possess
 Let's look at the Final Fantasy VII example again. It's a highly regarded classic, often topping peoples' "best games of all time" lists, but as I said earlier: the game can be beaten by pretty much anyone. This means it has no challenge, right? Well, maybe not in the core game, but players seeking a challenge actually have several options.
 
 <div style="float: right; padding: 10px 10px 10px 30px; min-width: 100px; max-width: 300px;">
-<a href="/images/ff7-bradygames-rubyweapon.png"><img src="/images/ff7-bradygames-rubyweapon.png" /></a>
+<a href="/images/ff7-bradygames-rubyweapon.png" target="_blank"><img src="/images/ff7-bradygames-rubyweapon.png" /></a>
 <figcaption>
     <div><p><small><em>The BradyGames Strategy Guide's Blerb for Ruby Weapon</em></small></p></div>
 </figcaption>
