@@ -86,7 +86,7 @@ If you've been tasked with creating a new Asset Management REST API, but the old
 1. Move the asset creation logic into a library which can be shared by both the API and the monolith?
 1. Rip the logic out of the monolith entirely, put it into the API, and have the monolith call the API?
 1. Change the front-end to call into the new API instead of the monolithic back-end when creating assets?
-1. Just rewrite the asset creation code in the API and have it integrate with the same tables as the monolith, and maintain both code paths?
+1. Just rewrite the asset creation code in the API, have it integrate with the same tables as the monolith, and maintain both code paths?
 
 Seriously, stop reading for a minute and decide which one you'd choose. I'll wait.
 
@@ -103,7 +103,7 @@ This might seem like the most straightforward approach at first glance, but you'
 **Option 3**: <span style="background-color: rgba(50,50,0,5);">_Change the front-end to call into the new API instead of the monolithic back-end when creating assets_</span><br />
 Perhaps the "cleanest" of the four options (in the sterile sense), this option still requires that your new API reimplement all of the business rules, and as we've found, this is not trivial. It can also create fragmentation on your front-end application as those developers hack in branching paths for each of the operations your API supports vs. the ones it doesn't yet. However, it removes the need for multiple back-end code paths, and doesn't introduce an extra network hop.
 
-**Option 4**: <span style="background-color: rgba(50,50,0,5);">_Just rewrite the asset creation code in the API and have it integrate with the same tables as the monolith, and maintain both code paths_</span><br />
+**Option 4**: <span style="background-color: rgba(50,50,0,5);">_Just rewrite the asset creation code in the API, have it integrate with the same tables as the monolith, and maintain both code paths_</span><br />
 Frankly, it turns out that most of the other options are going to have you rewriting a significant portion of the asset creation code anyway. Unfortunately, this option introduces the highest amount of additional maintenance cost. Now you've got two separate, completely distinct logical paths trying to implement the same business rules against the same backing tables. They must target the same tables, or else operations against the API won't show up in the monolithic application and vice versa. Any deviance between them could violate business rules and cause hard-to-diagnose errors in either system. Maybe the most damning disadvantage of this approach is that it doesn't do anything to discourage the monolith. Since both code paths continue to exist, the default one will continue to be the monolith's version. Your new logic will always just be a copycat.
 
 ---
