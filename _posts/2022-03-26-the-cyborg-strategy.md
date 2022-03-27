@@ -1,27 +1,27 @@
 ---
 layout: post
 title:  "The Cyborg Strategy"
-date:   2022-02-21 04:25:50 +0000
+date:   2022-03-26 04:25:50 +0000
 categories: blog
 tags: quality development operations
 excerpt: "Transforming legacy software with... cybernetics?"
 ---
 
-Imagine you live in a dystopian cyberpunk future full of technological implants capable of enhancing your abilities beyond the capacity of a normal human. You can get bionic eye implants to improve your sight, ear replacements to give you the sensitive hearing of a dog, artificial blood and organs to supercharge your athletic performance, and a potent cocktail of drugs which unlock and amplify your mind. Eagerly, you snap up all these opportunities. Before long, over half your body is cybernetic. At what point, after all these "upgrades," are you no longer yourself? Where is the threshold across which you become something else entirely?
+Imagine you live in a dystopian cyberpunk future full of technological implants capable of enhancing your abilities beyond the capacity of a normal human. You can get bionic eye implants to improve your sight, ear replacements to give you the sensitive hearing of a dog, artificial blood and organs to supercharge your athletic performance, and a potent cocktail of drugs which unlock and amplify your mind. Eagerly, you snap up all these opportunities. Before long, over half your body is cybernetic. At what point after these "upgrades" are you no longer yourself? Where is the threshold across which you become something else entirely?
 
-Over three years ago now, I wrote an article titled [The Inertial Deathblow]({% post_url 2018-06-12-the-inertial-deathblow %}) where I theorized that having decision makers mired deep in their own inertia is a critical hindrance to a competitive business. Time has only strengthened my experience here—since the original article, I've watched some very promising projects get flushed because of a few myopic leaders. Once those folks left or were removed from decision-making roles, I watched as newer and better solutions flourished.
+Over three years ago now, I wrote an article titled [The Inertial Deathblow]({% post_url 2018-06-12-the-inertial-deathblow %}) where I theorized that having decision makers mired deep in their own inertia is a critical hindrance to a competitive business. Time has only strengthened my experience here—since the original article, I've seen some very promising projects get flushed because of a few myopic leaders. Once those folks left or were removed from decision-making roles, I watched as newer and better solutions flourished.
 
-One thing continually struck me as odd, though. I alluded to this at the end of that first piece: the "correct" option is usually to build on top of the old stuff... **_sort of_**. But that's not what I saw. Let me show you why it didn't happen that way, and at the same time you'll come to understand what I mean when I say "sort of."
+One thing continually struck me as odd, though. I alluded to this at the end of that first piece: the "correct" option is usually to build on top of the old stuff... **_sort of_**. However, despite it being "correct," it's not what I saw happen. Let me show you why it didn't happen that way, and at the same time you'll come to understand what I mean when I say "sort of."
 
 ## Legacy Resists Change
 
-Instead of happening _within_ the old code, all that cool new stuff was created entirely _around_ it. Sometimes modules would get broken off to live somewhere near the old behemoth and speak its arcane, dead language, but most of the time the developers of the shiny modern systems avoided it like the plague. If you've worked in software engineering for long, you'll already understand why this happened, but if not, let me explain.
+Instead of happening _within_ the old code, all the cool new stuff got created entirely _around_ the old code. Sometimes modules would get broken off to live somewhere near the old behemoth and speak its arcane, dead language, but most of the time the developers of the shiny modern systems avoided it like the plague. If you've worked in software engineering for long, you'll already understand why this happened, but if not, let me explain.
 
 <div style="float: right; padding: 10px 10px 10px 30px; min-width: 200px; max-width: 300px;">
 <img src="/images/katamari.jpg" />
 </div>
 
-The first iteration of any system is almost always a monolith, especially when it's being written by a start-up team and/or by newer developers. Monoliths are not, inherently, bad. In fact, from an architecture perspective, I'd wager all solutions should begin as "trivial monolith" and only become more complex as necessary from there. However, monolithic applications have some key weaknesses. One of the most impactful is the tendency for them to slowly acquire their own gravity. As they grow, and as things get bolted onto them, they act as Katamaris, growing bigger and sucking up more and more things until eventually they become their own little planets with complex ecosystems.
+The first iteration of any system is almost always a monolith, especially when it's being written by a start-up team and/or by newer developers. Monoliths are not, inherently, bad. In fact, from an architecture perspective, I'd wager all solutions should begin as "trivial monolith" and only become more complex as necessary from there. However, monolithic applications have some key weaknesses. One of the most impactful is the tendency for them to slowly acquire their own gravity. As they grow, and as things get bolted onto them, they act as Katamaris, growing bigger and sucking up more and more things until eventually they become their own little planets with complex ecosystems. As soon as you run into a snag, stuff starts breaking.
 
 The sheer force which can be exerted by a large monolithic application is unmatched. Skilled developers can defend against it, but most shops don't exclusively employ folks trained in the art of anti-gravity. These systems can create vast wells of tribal knowledge, which makes them resistant to training and documentation. Since all the application logic lives in one place, devs tend to store all the data in one place too, creating monolithic databases. These behemoths are huge single points of failure often only mitigated by vast, expensive backups and wasteful failover clusters. Straddling all this is the inertia created by having such a large, tightly-knit system. Despite the technical debt it generates, it was created as a single infallible unit and, by its very nature, has tightly interwoven its various units and created omniscient dependencies which become nearly impossible to unwind.
 
@@ -41,9 +41,9 @@ Perhaps the most important lesson to learn about monolithic systems is that they
 
 It is crucial that you understand this; otherwise, it cannot be countered. All designers, developers, and stakeholders on a piece of software must keenly grasp this truth. The mitigation requires cooperation from everyone, from the architects and product owners through the most entry-level engineers. 
 
-Armed with this knowledge, you will grok a universal law: **monoliths are a part of software systems and must be handled**. They emerge from well-intentioned systems after years of bolt-on additions, quick 'n dirty hacks, inexperienced teams or developers making poor or uninformed decisions, and late night crunch time. Whether it was designed as a monolith or was once a tiny little microservice, the unyielding entropy which bloats and contorts software in the real world nudges it ever closer to its fate.
+Armed with this knowledge, you will come to understand a universal law: **monoliths are a part of real-world software systems and must be handled**. They emerge from well-intentioned systems after years of bolt-on additions, quick 'n dirty hacks, inexperienced developers making poor or uninformed decisions, and late night crunch time. Whether it was designed as a monolith or was once a tiny little microservice, the unyielding entropy which bloats and contorts software in the production world nudges it ever closer to its fate.
 
-So, how do you handle monoliths? Many junior devs will argue for scrapping the whole thing and starting from scratch. This works for trivial applications, unimportant systems, or for companies with ludicrous amounts of expendable capital, absolutely. But, most commonly, an application which became a monolith evolved that way because it was too massive and integral to the business. Even if you tried to run the new system in parallel with the old, the chance of introducing critical regressions at that scale of change nears 100%. 
+So, how do you handle monoliths? Many junior devs will argue for scrapping the whole thing and starting from scratch. This works for trivial applications, unimportant systems, or for companies with ludicrous amounts of expendable capital, absolutely. But, most commonly, an application which became a monolith evolved that way because it was too integral to the business. Even if you tried to run the new system in parallel with the old, the chance of introducing critical regressions at that scale of change nears 100%. Most stakeholders aren't going to accept that level of risk. <small>Of course, risk aversion and risk management are all pieces of the puzzle which agile development and DevOps try to address... but that's another topic for another time.</small>
 
 No, the answer is not to scrap the monolith. You must instead replace its organs with cybernetic enhancements.
 
@@ -61,11 +61,11 @@ Fundamentally, all units within a piece of software can be replaced... eventuall
 * I/O operations
 * Return values
 
-Well-written code will likely be very careful about how these inputs and outputs flow through a unit, usually tending toward a functional style, but sadly not all code is well-written. Legacy, monolithic code very often tries to manipulate any state it can legally touch, all across the application, without any consideration to how those side-effects might affect anything else. This makes the proposition of trying to replace any given unit a daunting one. Often, it can feel impossible to unwind the various layers of dependencies a method might take. However, **it is possible**. You just have to be willing to accept some compromises and commit to a vision. And, in the spirit of _agile_, make sure each iteration is bringing its own value, because you never know when conditions will change and your vision will get shelved.
+Well-written code will likely be very careful about how these inputs and outputs flow through a unit, usually tending toward a functional style, but sadly not all code is well-written. Legacy, monolithic code very often tries to manipulate any state it can legally touch, all across the system, without any consideration to how those side-effects might affect anything else. This makes the proposition of trying to replace any given unit a daunting one. Often, it can feel impossible to unwind the various layers of dependencies a method might take. However, **it is possible**. You just have to be willing to accept some compromises and commit to a vision. And, in the spirit of agile, make sure each iteration is bringing its own value, because you never know when conditions will change and your vision will get shelved.
 
 ### Thought Exercise
 
-Let's take a close look at a fairly trivial example (**WARNING: intentionally bad code ahead**):
+Let's take a close look at a fairly trivial example. Pretend this code lives in a monolithic three-tier MVC service (**WARNING: intentionally bad code ahead**):
 
 ```csharp
 // This code is intentionally very bad in so many ways
@@ -105,10 +105,10 @@ Seriously, stop reading for a minute and decide which one you'd choose. I'll wai
 Have you decided? Good. Let's break down the pros and cons of each of these options.
 
 **Option 1**: <span style="background-color: rgba(50,50,0,5);">_Move the asset creation logic into a library which can be shared by both the API and the monolith_</span><br />
-If you picked this one, you're going to end up unwinding spaghetti for a long time. Your library is going to have to introduce a new transitionary [DTO](https://en.wikipedia.org/wiki/Data_transfer_object) between `AssetViewModel` and `Asset`, know about the repository class (and therefore the database connection), contain all of the image validation (which isn't necessarily only used here), discover and reimplement the implied business rules enforced by exceptions that could be thrown by your transitive dependencies, and so on. Going down this road is a path to pain. That being said, it's also one of the only options which keeps you from needing to rewrite the business logic, which lessens the chance of regressions.
+If you picked this one, you're going to end up unwinding spaghetti for a long time. Your library is going to have to introduce a new transitionary DTO between `AssetViewModel` and `Asset`, know about the repository class (and therefore the database connection), contain all of the image validation (which isn't necessarily only used here), discover and reimplement the implied business rules enforced by exceptions that could be thrown by your transitive dependencies, and so on. Going down this road is a path to pain. That being said, it's also one of the only options which keeps you from needing to rewrite the business logic, which lessens the chance of regressions.
 
 **Option 2**: <span style="background-color: rgba(50,50,0,5);">_Rip the logic out of the monolith entirely, put it into the API, and have the monolith call the API_</span><br />
-This might seem like the most straightforward approach at first glance, but you're still saddled with needing to understand and reimplement various layers of business rules which are not immediately obvious. On top of that, you've also introduced another network hop—calls to create an asset now must travel from the front-end, to the back-end, to the API, and back again. Perhaps a single additional hop isn't so bad, but when this gets out of hand, [it can be catastrophic](https://www.youtube.com/watch?v=gfh-VCTwMw8). This isn't even considering that, assuming your new API is following some semblance of best practices, you'll also need to worry about service-to-service authentication and authorization.
+This might seem like the most straightforward approach at first glance, but you're still saddled with needing to understand and reimplement various layers of business rules which are not immediately obvious. On top of that, you've also introduced another network hop—calls to create an asset now must travel from the client, to the service, to the API, and back again. Perhaps a single additional hop both ways isn't so bad, but when this gets out of hand, [it can be catastrophic](https://www.youtube.com/watch?v=gfh-VCTwMw8). This isn't even considering that, assuming your new API is following some semblance of best practices, you'll also need to worry about service-to-service authentication and authorization.
 
 **Option 3**: <span style="background-color: rgba(50,50,0,5);">_Change the front-end to call into the new API instead of the monolithic back-end when creating assets_</span><br />
 Perhaps the "cleanest" of the four options (in the sterile sense), this option still requires that your new API reimplement all of the business rules, and as we've found, this is not trivial. It can also create fragmentation on your front-end application as those developers hack in branching paths for each of the operations your API supports vs. the ones it doesn't yet. However, it removes the need for multiple back-end code paths, and doesn't introduce an extra network hop.
@@ -118,7 +118,9 @@ Frankly, it turns out that most of the other options are going to have you rewri
 
 ---
 
-None of these options are ideal, but they all have something in common. They create a new component which does the same thing, but better in some way. Boiling them down to their best aspects, you wind up cutting out the capability from the old thing and hooking up all the connective tissue to the new. Hence the name: _the Cyborg Strategy_, an approach based in maintaining legacy systems by slowly upgrading them, unit by unit, towards a fundamentally different architecture.
+None of these options are ideal. Everyone has their particular philosophy which probably leads them down one path over another. Personally, I propose that any approach which results in supporting and maintaining two code paths is unacceptable, no matter the cost otherwise. The risk of divergence of so high, and it can manifest in so many subtle ways (and even if you did have unit tests, those would diverge as well), that almost anything else is better. Which option you chose isn't the most important part, though.
+
+The important part is that they all have something in common. They each create a new component which does the same thing, but better in some way. One way or another, you'll wind up moving out the capability from the old thing and hooking up all the connective tissue to the new. That's why I call this _the Cyborg Strategy_: it's an approach based in maintaining or enhancing legacy systems by slowly upgrading them, unit by unit, towards a fundamentally different architecture.
 
 ## Looking In the Mirror
 
@@ -138,7 +140,7 @@ Code that can only be operated on in massive, expensive chunks is absolutely _ov
 
 The mechanics of pitching this value to the business are out of scope here—a topic for another article. Maybe I'll write that one in 2025. Nevertheless, you will find yourself at a point where your path leads you here: removing and replacing components of a legacy application with augmented pieces in order to evolve it toward a better architecture over time. Your objective is to look back on yourself and your team and realize that the application you started with is gone, replaced by the cybernetically enhanced version you've been piecing together over months or years.
 
-## Sacrifice 👍
+## The Sacrifice 👍
 
 Once you've finally created a cyborg, what should you do with it? It still wears the face of the application it used to be, and probably still hosts some amount of the original logic, but most of the truly valuable pieces have been modularized. Ultimately, there are three possible fates for this wayward hybrid.
 
