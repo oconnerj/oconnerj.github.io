@@ -118,7 +118,7 @@ Frankly, it turns out that most of the other options are going to have you rewri
 
 ---
 
-None of these options are ideal. Everyone has their particular philosophy which probably leads them down one path over another. Personally, I propose that any approach which results in supporting and maintaining two code paths is unacceptable, no matter the cost otherwise. The risk of divergence of so high, and it can manifest in so many subtle ways (and even if you did have unit tests, those would diverge as well), that almost anything else is better. Which option you chose isn't the most important part, though.
+None of these options are ideal. Everyone has their particular philosophy which probably leads them down one path over another. Personally, I propose that any approach which results in supporting and maintaining two code paths is unacceptable, no matter the cost otherwise. The risk of divergence is so high, and it can manifest in so many subtle ways (and even if you did have unit tests, those would diverge as well), that almost anything else is better. Which option you chose isn't the most important part, though.
 
 The important part is that they all have something in common. They each create a new component which does the same thing, but better in some way. One way or another, you'll wind up moving out the capability from the old thing and hooking up all the connective tissue to the new. That's why I call this _the Cyborg Strategy_: it's an approach based in maintaining or enhancing legacy systems by slowly upgrading them, unit by unit, towards a fundamentally different architecture.
 
