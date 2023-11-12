@@ -14,7 +14,7 @@ You are free to use these rules in your own private games; however, if you plan 
 
 #### Pathfinder Epic Classes
 
-In my tenure as a GM over a long-running Pathfinder game, I found my players eventually going into levels beyond 20. For a long time there was no official ruleset for handling epic levels in Pathfinder. The Mythic Handbook is still the closest thing Pathfinder has to "epic" rules unless you utilize D&D's Epic Level Handbook. However, I don't feel like the Epic Level Handbook really fits the spirit of high-level Pathfinder play, so I wrote up a custom set of prestige classes to be utilized by my players beyond level 20.
+In my tenure as a GM over a long-running Pathfinder (1E) game, I found my players eventually going into levels beyond 20. For a long time there was no official ruleset for handling epic levels in Pathfinder. The Mythic Handbook is still the closest thing Pathfinder has to "epic" rules unless you utilize D&D's Epic Level Handbook. However, I don't feel like the Epic Level Handbook really fits the spirit of high-level Pathfinder play, so I wrote up a custom set of prestige classes to be utilized by my players beyond level 20.
 
 I have posted these classes (and my other rules) [here on Google Docs](https://docs.google.com/document/d/1yMtdkSsGtj_-oNhTmcVpdUVfr8rVO8ofUFD6CbqyM-E/edit?usp=sharing). I also created a [set of tables](https://docs.google.com/document/d/1xe6ectxHBRzNYyQIDxCQVWHDweZwvuajiQH3aL0X_nI/edit?usp=sharing) for Epic XP requirements for levels 21-40, which you might find useful if you're trying to run an epic-level Pathfinder game.
 
