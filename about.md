@@ -15,7 +15,7 @@ sidebar_sort_order: 1
 
 ### This is where I say some nice things about myself
 
-Hi, I'm Justin O'Conner. I'm a card-carrying nerd of the highest order. To be a nerd is to be passionate about something, and I'm very passionate about quite a few things. In my personal life, I love video games, D&D, writing music, tinkering with harebrained uses for my Raspberry Pi, and drinking craft beer. In my professional life, I'm an enthusiastic software architect striving to make systems more efficient and more effective, all while hopefully learning from the best and sharing my experiences with my teammates.
+Hi, I'm Justin O'Conner. I'm a card-carrying nerd of the highest order. To be a nerd is to be passionate about something, and I'm very passionate about quite a few things. In my personal life, I love video games, D&D, writing music, tinkering with harebrained uses for my Raspberry Pi, and drinking craft beer. In the professional world, I'm an enthusiastic software architect striving to make systems more efficient and more effective, all while hopefully learning from the best and sharing my experiences with my teammates.
 
 This site is my sparingly-used blog, where I write both semi-professional articles on relevant topics within the industry and random pieces on topics I personally care about. I believe that writing about something—especially something as intangible as software development philosophy—helps you understand it on a deeper level. That's why you'll find me writing about anything from the state of hiring in the industry to how Dependency Injection is confusing for newer developers. I also hope to eventually link to all my personal projects and open source contributions from this site.
 
