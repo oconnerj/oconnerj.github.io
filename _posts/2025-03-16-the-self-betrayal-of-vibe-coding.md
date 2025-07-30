@@ -7,7 +7,7 @@ tags: development ai quality
 excerpt: "An assessment of so-called \"vibe coding\" and a warning to its practitioners."
 ---
 
-<div style="display: flex; justify-content: center; padding: 10px 10px 10px 30px; min-width: 100px; max-height: 400px;">
+<div style="display: flex; justify-content: center; padding: 10px 10px 10px 30px; min-width: 100px; max-width: 300px; max-height: 400px;">
     <img src="/images/times_square.jpg" />
     <figcaption>
         <div><p><small><em>Times Square <a href="https://commons.wikimedia.org/w/index.php?curid=10048145">by Francisco Diez, CC BY 2.0</a></em></small></p></div>
@@ -21,6 +21,8 @@ Right?
 ... Right?
 
 Yeah, you know where this is going.
+
+_(**Edit 2025/07/30**: I don't usually edit my articles after the fact, but the previous version of this one contained a particularly vitriolic admonition of the start-up/venture capital game which probably wasn't entirely fair. This new version tones down the bile a bit.)_
 
 ## What is Vibe Coding?
 
@@ -37,9 +39,7 @@ The vibe coder has completed their work without ever needing to engage the engin
 
 First, we're going into this conversation with a few assumptions. Most importantly, note that I specifically call out _professional developers_. A hobbyist or general user who needs a script or a custom application gets no judgement from me, no matter how they achieve their goals. This (one-way) conversation is between me and engineers working for companies, producing software on a daily basis. Presumably, that software is used by a customer or stakeholder of some sort to create value, and they are paid for their labor, making them a professional.
 
-Another foundational principle here is the idea that software engineering is a discipline worthy of refinement. I don't want to engage in this conversation with valuation-obsessed tech bros blinded by the VC dollar signs in their eyes. Those people are often incapable of having a good faith discussion on this topic because their fundamental philosophies do not align with long-term goals. Their objectives are usually very short-term, lack an overarching strategy, and originate from a mindset geared toward playing a very different game. A traditional company produces a product or performs a service in exchange for money; tech bros produce hype in exchange for investment.
-
-It goes without saying that vibe coding is very popular with the sorts of people who see programming as a necessary evil on the path to getting bought by Amazon. Their end goal is to cash out the hype they've produced. Maintainability, quality, scalability, documentation, code standards, principles, SOLID, IoC—nothing matters to them more than cashing out before the house of cards collapses. If I haven't made it abundantly clear already, I'll spell it out: they are not in the business of solving problems except insomuch as it serves the _real_ business of increasing valuation and eventually creating wealth for the founders.
+Another foundational principle here is the idea that software engineering is a discipline worthy of refinement. I don't want to engage in this conversation with tech bros who lack respect for the trade which pays their bills. Those people are often incapable of having a good faith discussion on this topic because their fundamental philosophies do not align with long-term goals. Their objectives are usually very short-term, lack an overarching strategy, and originate from a mindset geared toward playing a very different game. It goes without saying that vibe coding is very popular with the sorts of people who see programming as a necessary evil on the path to getting bought by Amazon.
 
 ## The Difference Between Solving Problems and Being a Problem Solver
 
@@ -101,7 +101,7 @@ If vibe coding is so detrimental and generates such poor problem solvers, you mi
 
 Sometimes, they're burnt out or distracted, but obviously need to keep their job. So they turn to LLMs as a way to keep producing code without having to engage. Other times, they agree with the (toxic) mindset that the only priority is churning out code without much regard to any of the principles or disciplines of engineering. You know, the stuff we worked for decades to figure out was absolutely necessary for the longevity of software. 
 
-The vibe coders that worry me the most, though, are the new developers entering the industry now. As an unregulated, uncertified discipline, software engineering is _incredibly_ vulnerable to cargo cult practices and cynically-motivated fads. These newbies are getting fed all kinds of counterproductive codswallop by an industry that absolutely no longer has their best interests in mind. One of the more public meta-voices of the tech industry, The Primeagen, [reported on](https://www.youtube.com/watch?v=1Se2zTlXDwY) how the overreliance on LLMs is stripping junior developers of the critical foundational "muscle memory" they need to succeed.
+The vibe coders that worry me the most, though, are the new developers entering the industry now. As an unregulated, uncertified discipline, software engineering is _incredibly_ vulnerable to cargo cult practices and cynically-motivated fads. These newbies are getting fed all kinds of counterproductive codswallop by an industry that absolutely does not have their best interests in mind. One of the more public meta-voices of the tech industry, The Primeagen, [reported on](https://www.youtube.com/watch?v=1Se2zTlXDwY) how the overreliance on LLMs is stripping junior developers of the critical foundational "muscle memory" they need to succeed.
 
 Ten years ago, we used to accuse bad developers of just copy/pasting code from Stack Overflow. Vibe coders are a similar phenomenon, except now they're not even getting exposed to the community interactions around those posts. But so long as IT remains a lucrative career, there will always be people looking to get in without doing the prerequisite work. Just like with Stack Overflow, LLMs are a crutch, and some people never get back on their own two feet.
 
