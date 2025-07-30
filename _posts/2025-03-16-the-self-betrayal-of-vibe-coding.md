@@ -7,7 +7,7 @@ tags: development ai quality
 excerpt: "An assessment of so-called \"vibe coding\" and a warning to its practitioners."
 ---
 
-<div style="display: flex; justify-content: center; padding: 10px 10px 10px 30px; min-width: 100px; max-width: 300px; max-height: 400px;">
+<div style="display: flex; justify-content: center; padding: 10px 10px 10px 30px; min-width: 100px; max-height: 400px;">
     <img src="/images/times_square.jpg" />
     <figcaption>
         <div><p><small><em>Times Square <a href="https://commons.wikimedia.org/w/index.php?curid=10048145">by Francisco Diez, CC BY 2.0</a></em></small></p></div>
