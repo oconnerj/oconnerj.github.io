@@ -103,8 +103,14 @@ I don't know. I've never known, and it's part of why I originally made the decis
 
 ## So Now What?
 
-A small peek behind the curtain: this article took me a long time. I decided to take a few weeks off work between jobs—my wife and I just moved 4,000 miles across the entire continent of North America and I wasn't, originally, going to get a break to rest. I started this article on August 1st and didn't finish it until the 9th. Other posts have taken longer, but none have been so personal.
+A small peek behind the curtain: this article took me a long time to write. I decided to take a few weeks off work between jobs—my wife and I just moved 4,000 miles across the entire continent of North America and I wasn't, originally, going to get a break to rest. Starting this article is one of the first things I did after we moved into our new place. Other posts have taken longer, but none have been so personal.
 
-This has been my way of reminding myself why I decided, in 2010, to get into traditional IT instead of trying to be an indie game developer. It's been me painfully navigating the same decision yet again. All I ever wanted, as a kid, was to start a game studio with my friends and make games for a living. How naive and selfish.
+This has been my way of reminding myself why I decided, in 2010, to get into traditional IT instead of trying to be an indie game developer. It's been me painfully navigating the same decision yet again. As a kid, all I ever wanted was to start a game studio with my friends and make games for a living. How naive and selfish.
 
 Still, despite all the advice to the contrary, all the obvious signs that the industry is flooded, and all the common sense and risk assessment telling me it's stupid, there's a huge part of my inner self tied up in the desire to make games. To get something creative out there that people enjoy and leaves an impact on their lives in some way... that's what drives me.
+
+The tech industry right now is _so far abstracted_ from making products people want to use. It's all caught up in hype cycles and massive bubbles; meanwhile, the products we actually depend on day-to-day are rotting away or being hollowed out to make room for AI. I hate it. I just want to make cool things that make people happy.
+
+I don't yet know where I'm going to end up. Professionally and personally, it's a time of major change for me at what might end up being one of the worst possible times in history to make major changes. All I know is that wherever I land, it's going to be somewhere that I can meaningfully contribute to, and perhaps even lead, a product that actually impacts someone.
+
+That's all I want: to make a positive impact on the world, however small. Is that outmoded now? I guess I'll find out. Check back here in a few months to see if I'm starting a GoFundMe to help pay my bills... 
