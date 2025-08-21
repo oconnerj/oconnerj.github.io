@@ -1,0 +1,6 @@
+COMMIT_EDITMSG
+.git/
+.dockerignore
+.gitignore
+Gemfile.lock
+build-and-test.sh
