@@ -21,6 +21,7 @@ COPY _sass/ ./_sass/
 COPY assets/ ./assets/
 COPY category/ ./category/
 COPY images/ ./images/
+COPY games/ ./games/
 COPY *.* ./
 COPY CNAME ./
 

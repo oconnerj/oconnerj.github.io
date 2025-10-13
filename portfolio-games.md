@@ -8,6 +8,23 @@ sidebar_sort_order: 3
 
 Most of my work from the past several years has been professional stuff, but I've recently started working on games again in my spare time. Until I finish some new stuff, check out my older stuff below.
 
+### Chirality
+
+<div>
+<a href="/games/chirality.html">
+    <img style="max-width: 128px;" src="/images/games/chirality_title.png" />
+    <img style="max-width: 128px;" src="/images/games/chirality_gameplay.png" />
+</a>
+<figcaption>
+    <div><p><small><em>The name "Chirality" refers to a property exhibited by several of the Tetrominos - they are not identical when mirrored.</em></small></p></div>
+</figcaption>
+</div>
+
+<div><p>It's your favorite block puzzle game! I wrote this over the course of a week (or so) mostly just to prove to myself I could finish a game project. It's written for <a href="https://www.lexaloffle.com/pico-8.php">PICO-8</a>, a "fantasy" 8-bit computer/console. I really appreciate the restrictions PICO-8 imposes - there is some truth to the idea that limitation breeds creativity.</p>
+
+<p><a href="/games/chirality.html">Click on any of the pictures, or on this link, to play in a browser tab.</a></p>
+</div>
+
 ### Dungeon Diver 2D
 
 <div>
