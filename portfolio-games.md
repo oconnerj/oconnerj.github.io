@@ -6,7 +6,16 @@ sidebar_link: true
 sidebar_sort_order: 3
 ---
 
-Most of my work from the past several years has been professional stuff, but I've recently started working on games again in my spare time. Until I finish some new stuff, check out my older stuff below.
+Most of my work from the past several years has been professional stuff, but I've recently started working on games again in my spare time. Here's what I've completed or contributed to.
+
+### Space Goose
+
+<div>
+<iframe frameborder="0" src="https://itch.io/embed/3994872?linkback=true&amp;dark=true" width="552" height="167"><a href="https://redswitchgames.itch.io/space-goose">Space Goose by Red Switch Games</a></iframe>
+</div>
+
+<div><p><small>(Released October 28, 2025.)</small><br/> Perhaps my most complex <a href="https://www.lexaloffle.com/pico-8.php">PICO-8</a> game yet. Space Goose is a side-scrolling space shooter inspired by games like Vampire Survivors. It's available on itch.io using the widget above - you can play it right now!</p>
+</div>
 
 ### Chirality
 
@@ -20,7 +29,7 @@ Most of my work from the past several years has been professional stuff, but I'v
 </figcaption>
 </div>
 
-<div><p>It's your favorite block puzzle game! I wrote this over the course of a week (or so) mostly just to prove to myself I could finish a game project. It's written for <a href="https://www.lexaloffle.com/pico-8.php">PICO-8</a>, a "fantasy" 8-bit computer/console. I really appreciate the restrictions PICO-8 imposes - there is some truth to the idea that limitation breeds creativity.</p>
+<div><p><small>(Released October 13, 2025.)</small><br/> It's your favorite block puzzle game! I wrote this over the course of a week (or so) mostly just to prove to myself I could finish a game project. It's written for <a href="https://www.lexaloffle.com/pico-8.php">PICO-8</a>, a "fantasy" 8-bit computer/console. I really appreciate the restrictions PICO-8 imposes - there is some truth to the idea that limitation breeds creativity.</p>
 
 <p><a href="/games/chirality.html">Click on any of the pictures, or on this link, to play in a browser tab.</a></p>
 </div>
@@ -34,9 +43,11 @@ Most of my work from the past several years has been professional stuff, but I'v
 </figcaption>
 </div>
 
+<small>(From 2008.)</small>
+
 A 2D roguelike RPG inspired by Ultima, Diablo, and Dragon Quest (obviously). Dungeon Diver 2D was one of my first attempts at using the XNA Framework (RIP) to create a game. It originated long ago as a Windows Forms application as an assignment for a college class and evolved from there. It's obviously full of assets from other games (you can see my poor attempts at art here and there; there's a reason the term "programmer art" was coined), and as such I must say: **_this game and its source code are here for educational purposes only!_**
 
-**Links removed as of Feb. 2017:** I picked up this game recently to begin working on a new version of it.
+**Links removed as of Feb. 2017:** This game was unfinished and I never ended up finishing it, so I've taken it down.
 
 ### Animal Editor
 
