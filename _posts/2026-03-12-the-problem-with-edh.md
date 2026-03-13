@@ -178,7 +178,7 @@ This is where that _competitive_ and _aggressive_ nature inherent to Magic comes
 
 ### The Spirit of Commander
 
-The irony of all this is everyone knows Commander is a flawed format. Even its creators willingly acknowledged this. It was described as a way to have some fun between more traditional matches. I won't imply that folks like Sheldon Menery (often called the father of EDH) didn't put a lot of love and care into its development. They absolutely did. But I do strongly believe that it was never meant to grow as big as it has, nor was it meant to be the _default format_ of Magic.
+The irony of all this is everyone knows Commander is a flawed format. Even its creators willingly acknowledged this. It was described as a way to have some fun between more traditional 1v1 matches. I won't imply that folks like Sheldon Menery (the "father" of EDH) didn't put a lot of love and care into its development. They absolutely did. But I do strongly believe that it was never meant to grow as big as it has, nor was it meant to be the _default format_ of Magic.
 
 It's not unreasonable, then, to say that the spirit of Commander is whatever you want it to be. Clearly, Magic itself is a fun enough game - and a timeless enough design - that despite all this friction, dissonance, and discourse around Commander, people just want to play the damn game. Getting to play with more people? That's a net positive, even if it's hard to nail down exactly what each player is looking to get out of it.
 
@@ -186,17 +186,27 @@ But the growing pains associated with the emphasis and codification Wizards has 
 
 ## More Meta, More Problems
 
-As I alluded to earlier, Magic is Commander and Commander is Magic. Wizards is highly invested in making sure it's successful, and like centralized governing bodies with a financial interest are wont to do, they are beginning to put structure around it so they can protect it. But EDH doesn't feel like it was ever meant to be structured. Its charm was in its lack of structure, inherently - a return to the kitchen table slop decks of the past. A way to play with cards we already had...
+As I alluded to earlier, Magic is Commander and Commander is Magic. Wizards is highly invested in making sure it's successful, and like centralized governing bodies with a financial interest are wont to do, they have been putting structure around it so they can protect it. But EDH doesn't feel like it was ever meant to be structured. Its charm was in its lack of structure, inherently - a return to the kitchen table slop decks of the past. A way to play with cards we already had...
 
 ...oh. Yeah, I guess that's kind of a problem for WotC, huh?
 
-I don't even know if the designers or bean counters at the company are doing this intentionally. I think it's probably just emergent behavior created from this sort of corporate environment. But it's hard to deny how _convenient_ it is that their motives explicitly need you to buy more cards all the time. No one's going to blame them for printing attractive cards in new sets, but as we established earlier, kitchen table players don't really pay attention to the meta. They're not going to know that a better card exists unless they happen to open a pack that has one in it.
+I don't even know if the designers or bean counters at the company are doing this intentionally. I think it's probably just emergent behavior created from this sort of corporate environment. But it's hard to deny how _convenient_ it is that their motives explicitly need you to buy more cards all the time. No one's going to blame them for printing attractive cards in new sets; that's their business model and **I want the designers and artists to get paid**. But as we established earlier, kitchen table players don't really pay attention to the meta. They're not going to know that a better card exists unless they happen to open a pack that has one in it.
 
 So, Wizards is incentivized to do the following:
 
-1. Create a welcoming environment that encourages players to join the meta through official events at your LGS (and, in the modern day, sponsored YouTube videos showing friendly high-level Commander play).
-2. Establish a structured play environment where the meta is codified into stratified tiers within which players can choose their comfort level.
-3. Allow that meta to form and let players get defeated by others who min/max within it, no matter the bracket.
+1. Create a welcoming environment that encourages new/casual players to join the meta through official events at your LGS (and, in the modern day, sponsored YouTube videos showing friendly high-level Commander play).
+2. Establish a structured play environment where the meta is stratified into tiers within which players can choose their comfort level.
+3. Allow that meta to form, let these players participate, and inevitably get defeated by others who min/max within it, no matter the bracket.
 4. Sell players better cards to improve their decks and compete within the meta.
 
-There's not really anything wrong with any of this. It is, after all, the same way other Magic formats have worked since the creation of Type 2 in 1995. But, arguably, it's not at all what EDH was meant to be.
+There's not really anything wrong with any of this. It is, after all, the same way other Magic formats have worked since the creation of Type 2 in 1995. And hey, if you're having fun, then it's no more harmful than any other hobby. But, arguably, it's not at all what EDH was meant to be. You can make the same argument about the creation of Commander-exclusive products and cards legal only in Commander <small>(and Legacy/Vintage, by happenstance)</small>. 
+
+If the original intent of EDH was for it to be a casual format of slapped-together decks made from cards we already had, to have some less-competitive fun within a highly-competitive game, it's clearly deviated from that intent. Today, it's closer than ever before to the other main Magic formats. It's more akin to Modern now: it's got an expensive meta, its own dedicated product lines, a cycle of _soft_ rotation where new cards keep power-creeping out old established staples, and a fervent community of players constantly discussing and picking it apart. And the existence of sites like EDHRec only further consolidates these factors. <small>(No hate to them. Someone was going to make a tool like it, and they seem like cool people.)</small>
+
+Reiterating a point from earlier, some amount of this crystallization and codification was inevitable. **Everything** has a meta nowadays. But it seems to me that the only thing Commander has left going for it to differentiate it spiritually from other formats - the social factor - is starting to fray. And it's fraying because WotC can't stop sticking their fingers in the pie. Their need to protect and standardize their primary money-making format is going to inevitably smother the one thing which makes it so much different.
+
+## Full Circle
+
+I told you the story of how I got into Magic and how I played it for over a decade, in the 90s and early 2000s. I engaged with it the way the rules encouraged me: to win. When I came back in 2022, I was met with a landscape _very different_ from the one I left. It was one dominated by a much more friendly and social game than the sweaty, smelly, try-hard tournaments I had burned out on. But even since then, I've watched as this version of the game has begun to twist back into the meta-dominated competition it once was.
+
+I truly believe some of that decay is because of Magic's game engine. It's inherently aggressive - my wife has called it "boy-coded".
