@@ -105,7 +105,7 @@ Unfortunately, these players are becoming extinct. It's hard not to break out of
 
 Wizards of the Coast has a financial incentive to sell as many cards to as many people as possible. This means it's only natural for them to target the casual players more than the established ones; to appeal to the masses and hope to get them hooked on their definitely-not-gambling scheme. It's why so much of Magic is now _Universes Beyond_ - crossovers with popular third-party IPs like Final Fantasy or Teenage Mutant Ninja Turtles. These are recognizable brands that have an audience outside of Magic's typical sphere. Millions of people that have played Final Fantasy have probably never tried Magic, but they might if their favorite characters are on the cards.
 
-These casual players will never go straight into sweating it up at their local game store, playing in 1v1 Standard tournaments. No, WotC realized that the casual nature of Commander was perfect as an avenue to expand their reach while still providing a _mostly_ structured play environment. They can continue printing powerful Commander cards (remember [Nadu](https://scryfall.com/card/mh3/193/nadu-winged-wisdom)?) in new sets to keep demand high with entrenched players _**and also**_ attract the sort of crowd who plays a Spider-Man deck because they really like Spider-Man, whether it can win the game or not. It's a win/win for them.
+These lured players will never go straight into sweating it up at their local game store, playing in 1v1 Standard tournaments. No, WotC realized that the casual nature of Commander was perfect as an avenue to expand their reach while still providing a _mostly_ structured play environment. They can continue printing powerful Commander cards (remember [Nadu](https://scryfall.com/card/mh3/193/nadu-winged-wisdom)?) in new sets to keep demand high with entrenched players _**and also**_ attract the sort of crowd who plays a Spider-Man deck because they really like Spider-Man, whether it can win the game or not. It's a win/win for them.
 
 In fact, in many ways, Magic has become Commander and vice versa. While Standard and the other 1v1 competitive formats still exist and enjoy success, Commander is now the default way to play. Just like the kitchen table Magic of old, right?
 
@@ -150,9 +150,9 @@ If you're both playing at that level, a whole new level of intrigue develops. No
 
 Competently utilizing this, however, necessitates a pretty deep understanding of the rules. When can I play instants? What is the stack? When do triggered abilities go on the stack? What is priority? Who has it right now? Why can't I stop this creature's triggered ability from firing when it enters the battlefield? Why can't I keep my opponent from activating their Planeswalker's +1 ability? Why can't I respond to them tapping their lands to get ready to cast a spell?
 
-The comprehension and proper usage of instant-speed interaction is probably one of the biggest differentiators between a novice and an expert player. Newer players are going to get very frustrated when they try to play the game and you take advantage of these mechanics to shut them down. Countering their spells is one thing, but how about casting Lightning Bolt in response to them targeting their creature with an Aura? The creature dies and both it and the Aura go to the graveyard. This is known as a "two-for-one" - your **one** spell cost your opponent **two** game objects. How could they even know that was something they should watch for? Why even play these cards if the opponent can (hopefully metaphorically) slap them out of your hand and laugh at you?
+The comprehension and proper usage of instant-speed interaction is probably one of the biggest differentiators between a novice and an expert player. Newer players are going to get very frustrated when they try to play the game and you take advantage of these mechanics to shut them down. Countering their spells is one thing, but how about casting Lightning Bolt in response to them targeting their creature with an Aura? The creature dies; both it and the Aura go to the graveyard. This is known as a "two-for-one" - your **one** spell cost your opponent **two** game objects. How could they even know that was something they should watch for? Why even play these cards if the opponent can (hopefully metaphorically) slap them out of your hand and laugh at you?
 
-Compare Magic in this way to Hearthstone, Blizzard's Warcraft-themed virtual trading card game. Now, a disclaimer: I haven't played it in a _long time_ so I can't be sure this still holds true. However, while Magic and Hearthstone are superficially similar, their design pillars are very different. There is no instant-speed interaction in Hearthstone. It's played entirely "on the board"; that is, game pieces which can interact with the game state are laid out onto the playfield and visible to both players. This doesn't necessarily make it less of a tactical or strategic game, but it does absolutely change the feeling of playing it. Its design isn't as _aggressive_ as Magic's.
+Compare Magic in this way to Hearthstone, Blizzard's Warcraft-themed digital trading card game. Now, a disclaimer: I haven't played it in a _long time_ so I can't be sure this still holds true. However, while Magic and Hearthstone are superficially similar, their design pillars are very different. There is no instant-speed interaction in Hearthstone. It's played entirely "on the board"; that is, game pieces which can interact with the game state are laid out onto the playfield and visible to both players. This doesn't necessarily make it less of a tactical or strategic game, but it does absolutely change the feeling of playing it. Its design isn't as _aggressive_ as Magic's.
 
 #### Lands
 
@@ -169,7 +169,7 @@ One of the most common and painful manifestations of this factor is getting a po
 
 On the flip side, you also need to draw cards that have an impact. Few decks can win the game after drawing lands four turns in a row. They just... run out of stuff to do. The space between mana screw and mana flood is where a majority of matches operate, and I'd wager most have a healthy variance here which, on average, creates exciting gameplay for all parties. But, Magic is happy to let you have a very bad time.
 
-A player is supposed to account for these factors during deck-building, and that's a great mechanic! Learning to include _enough_ lands in your deck, _but not too many_, to account for the "mana curve" <small>(the distribution of casting costs)</small>? Great idea. Doing the math to tweak your chance of casting your critical spells on time? Another mark of an expert player. But even the best players can only mitigate so much risk. They get mana flooded and screwed too, just less frequently than a novice.
+A player is supposed to account for these factors during deck-building, and that's a great mechanic! Learning to include _enough_ lands in your deck, _but not too many_, to account for the "mana curve" <small>(the distribution of casting costs)</small>? Good idea. Doing the math to tweak your chance of casting your critical spells on time? Another mark of an expert player. But even the best players can only mitigate so much risk. They get mana flooded and screwed too, just less frequently than a novice.
 
 Thankfully, the game does provide one built-in mechanic to help dodge these screw/flood situations after deck-building. A player can choose to mulligan their starting hand before the match begins. However, this still puts the player at a measurable, objective disadvantage due solely to bad luck. You don't get to draw a new, full hand of 7 cards. You have to pitch one of your new cards to the bottom of your library. Your opponent has 7 game pieces but now you only have 6. Still screwed after the mulligan? You can do it again... now you're down to 5 cards, and so on.
 
@@ -189,7 +189,7 @@ Have a look at some of the [early TV ads for Magic](https://www.youtube.com/watc
 
 We've established that Magic has a philosophy baked into its design which encourages highly competitive and aggressive play. It's that subconscious suggestion that made my parents and I understand, back in the 90s, that Magic was a game meant to be played to win. So why, then, is so much of the discourse around Commander so _confused_? Why is the Commander Bracket System so concerned with the "feeling" of the game and managing players' expectations? Why is the metagame of Commander so concerned with the **_experience of playing it_**?
 
-Well... it's because of you. You can't agree on what the spirit of Commander is supposed to be, and _the game engine itself doesn't either_.
+Well... it's because of you. You can't agree with others, or with the game engine itself, on what the spirit of Commander is supposed to be.
 
 ### Too Many Things to Too Many People
 
@@ -242,7 +242,7 @@ There's not really anything wrong with any of this. It is, after all, the same w
 
 If the original intent of EDH was for it to be a casual format of slapped-together decks made from cards we already had, to have some less-competitive fun within a highly-competitive game, it's clearly deviated from that intent. Today, it's closer than ever before to the other first-party Magic formats. It's more akin to Modern now: it's got an expensive meta, its own dedicated product lines, a cycle of _soft_ rotation where new cards keep power-creeping out old established staples, and a fervent community of players constantly discussing, optimizing, and picking it apart. The existence of sites like EDHRec consolidates these influences. <small>(No hate to them, though. Someone was going to make a tool like it, and they seem like cool people.)</small>
 
-Reiterating a point from earlier, some amount of this was inevitable. **Everything** has a meta. But it seems to me that the only thing Commander has left going for it to differentiate it spiritually from other formats - the social factor - is starting to fray. And it's fraying because WotC can't stop sticking their fingers in the pie. Their need to protect and standardize their primary money-making format is going to smother the one thing which makes it so unique.
+Reiterating a point from earlier, some amount of this was inevitable. **Everything** has a meta. But it seems to me that the only thing Commander has left going for it to differentiate it spiritually from other formats - the casual and social factor - is starting to fray. And it's fraying because WotC can't stop sticking their fingers in the pie. Their need to protect and standardize their primary money-making format is going to smother the one thing which makes it so unique.
 
 ## Coming Apart At The Seams
 
@@ -256,23 +256,23 @@ Gee, whatever happened to that committee?
 
 > As a result of the threats last week against RC members, it has become impossible for us to continue operating as an independent entity. Given that, we have asked WotC to assume responsibility for Commander and they will be making decisions and announcements going forward.
 >
-> -- https://x.com/mtgcommander/status/1840783614294069286
+> <small>-- https://x.com/mtgcommander/status/1840783614294069286</small>
 
 > The alleged threats came last week in the days following the ban of four cards from Commander: Dockside Extortionist, Jeweled Lotus, Mana Crypt, and Nadu, Winged Wisdom. Many in the Magic community lamented the massive change their loss would bring to the format’s meta-strategies...
 >
-> -- https://www.polygon.com/mtg-magic-the-gathering/458184/commander-rules-committee-steps-down/
+> <small>-- https://www.polygon.com/mtg-magic-the-gathering/458184/commander-rules-committee-steps-down/</small>
 
 > Some members of the RC ... have reported death threats and doxxing levied in their direction in the hours and days following the bans.
 >
-> -- https://commandersherald.com/cag-member-resigns-amid-recent-commander-bans/
+> <small>-- https://commandersherald.com/cag-member-resigns-amid-recent-commander-bans/</small>
 
 Oh. Holy shit.
 
-Yeah. It turns out that the toxic machismo underlying Magic is still alive and well. Like with far too many micro-cultures today, there is an underbelly of seething man-children who have been taught since the days of 4chan that they can wield devastating power through anonymity and hate. While the Magic brand and many of its most prolific personalities are pro-Trans, openly gay, or transparently liberal, the view from "on the ground" (so to speak) is a mixed bag. Your LGS is probably frequented simultaneously by many loving, caring individuals who just want to play a fun card game and also a few absolute losers who try their best to spoil the experience for everyone else.
+Yeah. It turns out that the toxic machismo underlying Magic is still alive and well. Like with far too many micro-cultures today, there is an underbelly of seething man-children who have been taught since the days of 4chan that they can wield devastating power through anonymity and hate. While the Magic brand and many of its most prolific personalities are pro-trans, openly gay, or transparently liberal, the view from "on the ground" (so to speak) is a mixed bag. Your LGS is probably frequented simultaneously by many loving, caring individuals who just want to play a fun card game and also a few absolute losers who try their best to spoil the experience for everyone else.
 
-Unfortunately, because Magic is as massive as it is, there are enough of these chuds to make a serious impact on the community. Because Magic still has that undercurrent of adolescent aggression running through it, they feel at home and welcomed. And sadly, because Wizards of the Coast wants their money, they will be allowed to participate no matter how much harm they bring.
+Unfortunately, because Magic is as massive as it is, there are enough of these chuds to make a serious impact on the community. Because Magic still has that undercurrent of adolescent aggression running through it, they feel at home and welcomed. And, because Wizards of the Coast wants their money, they will be allowed to participate no matter how much harm they bring.
 
-Let me be very, very clear for a second. I **absolutely do not** mean to imply that every Commander player who wishes the format were taken a little more seriously is a toxic asshole. You could hold the opinion that the only valid way to play is CEDH, and so long as you're cool about it, you're still welcome at my table. Sadly, there is a clear correlation between the people who thrive on and feed into the meta and those doxxing hatemongers. If you are the former and you dislike the latter, do everything you can to force them out of the community. Make them objectively unwelcome at any event, any table, any pod. There's no space in the world for people like that - make them feel like they want their targets to feel.
+Let me be abundantly clear for a second. I **absolutely do not** mean to imply that every Commander player who wishes the format were taken a little more seriously is a toxic asshole. You could hold the opinion that the only valid way to play is CEDH, and so long as you're cool about it, you're still welcome at my table. Sadly, there is a clear correlation between the people who thrive on and feed into the meta and those doxxing hatemongers. If you are the former and you dislike the latter, do everything you can to force them out of the community. Make them objectively unwelcome at any event, any table, any pod. There's no space in the world for people like that - make them feel like they want their targets to feel.
 
 ## YOU Are The Problem
 
@@ -286,6 +286,6 @@ Look deeply into it. Who do you see?
 
 Some of you will see a kind person who brings joy and positivity into the world. Some of you will see what I saw back in 2007. A negative, toxic child who needs to grow up.
 
-The problem with Commander isn't the meta. It's not Magic's cut-throat game engine. It's not Wizards of the Coast. All of those things can be accounted for just by being an emotionally mature and responsible player.
+You see, despite everything I've just said, the real problem with Commander isn't the meta. It's not Magic's cut-throat game engine. It's not Wizards of the Coast. All of these things can be accounted for just by being an emotionally mature and responsible player.
 
 The problem with Commander is you.
