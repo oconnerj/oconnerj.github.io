@@ -185,11 +185,11 @@ Magic's design is full of interactions like this. These are important mechanics 
 
 Have a look at some of the [early TV ads for Magic](https://www.youtube.com/watch?v=Fn2BMbg5yLo). Or, [this series of spots aired on MTV back in the day](https://www.youtube.com/watch?v=GGa_tbspGpU). Wizards of the Coast leaned into it. They knew what sort of crowd the game had attracted and chose to cultivate it. Thankfully, the marketing has toned this sort of machismo bullshit _way down_. But that same energy can't be removed from the engine without completely changing the rules. It wouldn't be the same game.
 
-## It's You. You're The Problem
+## The Meta-Metagame
 
 We've established that Magic has a philosophy baked into its design which encourages highly competitive and aggressive play. It's that subconscious suggestion that made my parents and I understand, back in the 90s, that Magic was a game meant to be played to win. So why, then, is so much of the discourse around Commander so _confused_? Why is the Commander Bracket System so concerned with the "feeling" of the game and managing players' expectations? Why is the metagame of Commander so concerned with the **_experience of playing it_**?
 
-Well... it's because of you. You can't agree with others, or with the game engine itself, on what the spirit of Commander is supposed to be.
+Well... it's because people can't agree with each other, or with the game engine itself, on what the spirit of Commander is supposed to be.
 
 ### Too Many Things to Too Many People
 
